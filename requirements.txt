@@ -1,0 +1,9 @@
+numpy 
+rfdetr
+supervision
+pillow
+locale
+roboflow
+matplotlib
+pandas
+tqdm
