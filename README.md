@@ -1,7 +1,7 @@
 # RF-DETR Custom Dataset
 
 ## Overview
-This repository demonstrates how to use RF-DETR (Region-Free Detection Transformer) for object detection with a custom dataset. The example workflow includes:
+This repository demonstrates how to use RF-DETR for object detection with a custom dataset. The example workflow includes:
 - Installing necessary dependencies
 - Running inference on sample images
 - Training a custom model using a dataset from Roboflow
